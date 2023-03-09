@@ -1,0 +1,11 @@
+[
+    {
+        "title": "What is MVC?",
+        "content": "Model View Controller architecture"
+      
+    },
+    {
+        "title": "Node vs Express",
+        "content": "Node is an open-source, cross-platform runtime environment while express is a Node web framework"
+    }
+]  
